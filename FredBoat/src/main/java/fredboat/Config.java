@@ -51,7 +51,7 @@ public class Config {
     
     public static Config CONFIG = null;
 
-    public static String DEFAULT_PREFIX = ";;";
+    public static String DEFAULT_PREFIX = "!";
     public static int HIKARI_TIMEOUT_MILLISECONDS = 10000;
 
     private final DistributionEnum distribution;
